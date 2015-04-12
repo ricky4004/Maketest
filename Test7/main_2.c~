@@ -1,0 +1,21 @@
+#include<stdio.h>
+nclude<stdio>
+int main(viod)
+{
+	printf("boy:\n");
+	print("Hi! girl\n");
+        print("girl:\n");
+	main();
+}
+gcc –c main_2.c main.c 
+
+
+gcc –c main main_2.c main.c
+int main()
+{
+
+printf("HI!\n");
+
+return 0;
+
+}
